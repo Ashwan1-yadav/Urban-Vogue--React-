@@ -1,8 +1,13 @@
-# React + Vite
+# Urban Vogue 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Urban Vogue, your ultimate destination for modern fashion that blends urban vibes with timeless sophistication. At Urban Vogue, we curate clothing and accessories that speak to the bold, the stylish, and the trendsetters. Whether you're looking for cutting-edge streetwear, chic casuals, or statement pieces, our collection is designed to elevate your wardrobe and express your individuality.
 
-Currently, two official plugins are available:
+From everyday essentials to runway-inspired looks, Urban Vogue celebrates diversity, creativity, and the art of self-expression. Step into a world where fashion meets lifestyle, and let your style do the talking.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Steps To run project :- 
+
+- Clone the repo
+- run command -> npm install
+- Project runs on localhost on port 5173
+
+Connect on linkedin for any query and follow me on github and linkedIn
